@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on prototyping real mobile games - prefer 2D - and own game projects in match3 genres and economic strategies.<br>👯 I’m looking to collaborate with developers, who want to create light-weight games with interesting and involving game design.<br>🤝 I’m looking for help with  with adapting DDD strategies and patterns in Unity projects.<br>🌱 I’m currently learning  Unit testing, algorithms of 2D arrays traversing, shaders and mobile optimization.<br>⚡ Fun fact: i really like corn!<br><br><br><br>
+🔭 I’m currently working on prototyping real mobile games - prefer 2D - and own game projects in match3 genres and economic strategies.<br>👯 I’m looking to collaborate with developers, who want to create light-weight games with interesting and involving game design.<br>🤝 I’m looking for help with adapting DDD strategies and patterns in Unity projects.<br>🌱 I’m currently learning  Unit testing, algorithms of 2D arrays traversing, shaders and mobile optimization.<br>⚡ Fun fact: i really like corn!<br><br><br><br>
 
 
 # 💻 Tech Stack:
